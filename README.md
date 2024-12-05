@@ -6,6 +6,7 @@
 
 <h3 align = "left"> 1. Customer Segmentation :  https://github.com/Aniket0242/Customer-Segmentation </h3>
 <h3 align = "left"> 2. Credit Fraud Detection :  https://github.com/Aniket0242/Credit-Fraud-Detection </h3>
+<h3 align = "left"> 2. Customer Churn Prediction :  https://github.com/Aniket0242/Customer-Churn-Prediction </h3>
 
 <br>
 <div align="center">
